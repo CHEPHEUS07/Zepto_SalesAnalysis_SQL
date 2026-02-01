@@ -1,5 +1,5 @@
 # Zepto_SalesAnalysis_SQL
-# Zepto Sales Analysis (SQL)
+
 
 ## 📌 Project Overview
 This project focuses on analyzing **Zepto-style quick commerce sales data** using **SQL**.  
