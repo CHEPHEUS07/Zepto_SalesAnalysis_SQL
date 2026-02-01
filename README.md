@@ -36,4 +36,3 @@ The dataset contains sales-related information such as:
 
 ---
 
-## 📂 Project Structure
